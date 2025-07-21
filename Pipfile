@@ -5,6 +5,12 @@ name = "pypi"
 
 [packages]
 fastmcp = "*"
+minsearch = "*"
+qdrant-client = "*"
+requests = "*"
+tqdm = "*"
+fastembed = "*"
+rouge = "*"
 
 [dev-packages]
 ipykernel = "*"
